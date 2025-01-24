@@ -11,6 +11,7 @@ menu = {
     'Coke': 20,
 }
 
+
 # Welcome message and menu display
 print("Welcome to our Restaurant!\n")
 print("Here is the menu")
