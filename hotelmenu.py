@@ -45,6 +45,7 @@ take_order()
 
 
 
+
 # Print the total amount to pay
 print(f"\nThe total amount to pay is: Rs.{order_total}")
 print("Thank you for ordering with us!")
