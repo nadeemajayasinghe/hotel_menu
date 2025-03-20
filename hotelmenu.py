@@ -26,6 +26,7 @@ order_total = 0
 
 
 # Function to take order
+
 def take_order():
     global order_total
     while True:
